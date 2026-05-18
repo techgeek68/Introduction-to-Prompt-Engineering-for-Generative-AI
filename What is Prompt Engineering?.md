@@ -7,8 +7,8 @@
 This is a fast moving field, so the tools and models in use change frequently. Some of the key platforms where prompt engineering matters most included:
 
 **Text/language models:**
-  - ChatGPT (powered by GPT-4 and GPT-4o at the time)
-  - Microsoft Copilot (also built on GPT-4o)
+  - ChatGPT 
+  - Microsoft Copilot
   - Google Gemini
   - Claude by Anthropic
 
