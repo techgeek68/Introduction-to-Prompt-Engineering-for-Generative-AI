@@ -4,7 +4,7 @@
 
 **Prompt engineering** is the practice of crafting inputs (prompts) in a way that gets the best possible output from generative AI systems, especially language models.
 
-This is a fast moving field, so the tools and models in use change frequently. At the time this script was recorded, some of the key platforms where prompt engineering matters most included:
+This is a fast moving field, so the tools and models in use change frequently. Some of the key platforms where prompt engineering matters most included:
 
 **Text/language models:**
   - ChatGPT (powered by GPT-4 and GPT-4o at the time)
